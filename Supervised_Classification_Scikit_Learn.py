@@ -20,13 +20,6 @@ from sklearn.metrics import (
 
 
 
-
-
-
-
-
-
-
 def Classification(func):
     def wrapper(X_train_new, y_train, X_test_new, y_test, X_test0, y_test0):
         t0 = time.time()

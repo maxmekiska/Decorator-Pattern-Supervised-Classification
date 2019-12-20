@@ -20,8 +20,8 @@ In its current form it assumes the following variables:
 - X_test_new
 - y_test
 
-(- X_test0)
-(- y_test0)
+(X_test0)
+(y_test0)
 
 X_train_new: contains the data on which the model trains, excluding the target variable y (variable to be predicted)
 

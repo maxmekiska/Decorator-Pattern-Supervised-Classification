@@ -155,3 +155,7 @@ SupportVectorMachine(X_train_num, y_train, X_test_num, y_test)
 BaggingSVM(X_train_num, y_train, X_test_num, y_test)
 
 NeuralNetwork(X_train_num, y_train, X_test_num, y_test)
+
+# Example Output:
+
+![](Example_Output.gif)

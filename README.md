@@ -158,4 +158,4 @@ NeuralNetwork(X_train_num, y_train, X_test_num, y_test)
 
 # Example Output:
 
-![](Example_Output.gif)
+![](Example_Output.png)

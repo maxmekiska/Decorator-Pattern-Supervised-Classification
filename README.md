@@ -1,4 +1,4 @@
-# Supervised Classification Scikit-Learn
+# Decorator Pattern for Supervised Classification
 
 This function serves to implement, evaluate and visualize supervised learning classifier performances.
 The classifiers contained in the function:
